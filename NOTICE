@@ -1,0 +1,20 @@
+Luma 快传
+Copyright 2026 Luma 快传 contributors
+
+This distribution contains software derived from:
+
+LumaLink
+Copyright 2026 LumaLink contributors
+
+This product includes software developed by the Android Open Source Project
+(https://source.android.com/), the Kotlin project (https://kotlinlang.org/),
+Square, Inc. (OkHttp), Coil, and the Media3 project.
+
+The names Panasonic and LUMIX are trademarks of Panasonic Holdings Corporation.
+LumaLink is an independent third-party interoperability tool and is not
+affiliated with, endorsed by, or sponsored by Panasonic.
+
+This project includes a modified, S5M2-focused transfer build based on
+LumaLink 4.3.11. The transfer protocol, reliability logic, and original
+attribution are retained. Branding and application identifiers were changed
+to keep this build independent from the upstream application.
